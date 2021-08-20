@@ -1,0 +1,18 @@
+{
+  "product": "tga_jokes_maing01",
+  "version": "0.1.0-DEV",
+  "license": "License Commercial",
+  "description": {
+    "en": "",
+    "cs": ""
+  },
+  "tga_jokes_maing01-hi": {},
+  "tga_jokes_maing01-server": {
+    "devkit": {
+      "development": {
+        "appBoxLocationUri": "ues:TGA-BT:UAD202003-05/23-6642-1",
+        "appDeploymentUri": "ues:TGA-BT[84723967990090703]:TRAINING_AWE[5dcc06ac0e2aca18bbbc392a]:TGA.TRAIN28.MAING01[5f6342bff439f91e7673e790]"
+      }
+    }
+  }
+}
